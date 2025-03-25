@@ -15,7 +15,10 @@ const About = ({setPlaystate}) => {
         <div className='about-right'>
             <h3> About university</h3>
             <h4> Nuturing tomorow</h4>
-            <p>jkbnmjhgvbnjhgv iuytfgcvb</p>
+            <p>Universities are institutions of higher education 
+              that provide academic and professional training across various disciplines. 
+              They play a crucial role in advancing knowledge
+              , conducting research, and preparing students for careers in different fields.</p>
 
         </div>
     </div>
